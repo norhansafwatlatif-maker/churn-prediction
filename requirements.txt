@@ -1,8 +1,4 @@
-pandas
-numpy
-scikit-learn
 streamlit
+pandas
+scikit-learn
 joblib
-matplotlib
-seaborn
-plotly.graph_objects
